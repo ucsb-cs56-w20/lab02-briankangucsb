@@ -31,5 +31,3 @@ public class HelloControllerTest {
 						"<a href='https://github.com/ucsb-cs56-w20/lab02-briankangucsb'>this github repo</a></p>\n")));
     }
 }
-
-   //.andExpect(content().string(equalTo("Greetings from Spring Boot!")));
