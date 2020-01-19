@@ -1,7 +1,7 @@
 # lab02-briankangucsb
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-briankangucsb/
-Repo: https://github.com/ucsb-cs56-w20/lab02-briankangucsb.git
+Repo: https://github.com/ucsb-cs56-w20/lab02-briankangucsb
 
 # About this repo
 
